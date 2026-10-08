@@ -43,3 +43,7 @@ I care about explicit failure handling, predictable timeout behavior, backward c
 ---
 
 Open to technical discussions about agent tooling, AI-assisted development, and reliable LLM systems.
+
+## Starred repositories
+
+[Browse my categorized GitHub Stars (简体中文)](STAR_CATEGORIES.zh-CN.md) · [JSON index](star-categories.json)

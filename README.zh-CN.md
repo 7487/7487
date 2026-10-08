@@ -43,3 +43,7 @@
 ---
 
 欢迎交流 Agent 工具、AI 辅助开发与大模型系统可靠性。
+
+## Stars 分类索引
+
+[按主题浏览 GitHub Stars](STAR_CATEGORIES.zh-CN.md) · [JSON 索引](star-categories.json)
