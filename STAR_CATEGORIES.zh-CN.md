@@ -1,10 +1,10 @@
 # GitHub Stars 分类索引
 
-更新日期：2026-10-11（Asia/Shanghai）
+更新日期：2026-10-18（Asia/Shanghai）
 
-共收录 **627** 个公开 Star 仓库，分为 **11** 类，其中 **17** 项标记为待复核。每个仓库仅归入一个主分类。
+共收录 **638** 个公开 Star 仓库，分为 **11** 类，其中 **17** 项标记为待复核。每个仓库仅归入一个主分类。
 
-分类基线建立于2026-10-08。本次沿用同一套11类及已有项目归属，以仓库ID逐项核对：新增25项，取消Star 0项，改名0项，归档状态变化0项。历史更早的分类文件未恢复。
+分类基线建立于2026-10-08。本次沿用同一套11类及已有项目归属，以仓库ID逐项核对：新增12项，本次公开Stars列表不再出现1项，改名0项，归档状态变化0项。不再出现的仓库为rakanki911/DLSS5-Swapper；公开读取返回404，无法区分取消Star、转为私有或删除。历史更早的分类文件未恢复。
 
 范围与方法：以 [GitHub 公开 Stars API](https://api.github.com/users/7487/starred?per_page=100) 的分页结果为准，根据仓库名称、公开描述、主题标签及部分 README 判断主要用途。公开 API 不包含不可公开读取的 Star 仓库。分类和简介用于导航，不代表安全性、质量或合规背书。
 
@@ -12,15 +12,15 @@
 
 ## 分类导航
 
-- [Agent框架与自动化](#agents)：66 项
-- [AI编程与开发工具](#coding)：101 项
-- [模型训练与推理](#models)：45 项
+- [Agent框架与自动化](#agents)：68 项
+- [AI编程与开发工具](#coding)：103 项
+- [模型训练与推理](#models)：46 项
 - [检索、记忆与数据](#retrieval)：45 项
 - [图像、视频与语音](#media)：77 项
 - [AI应用与效率工具](#apps)：94 项
 - [后端、云与基础设施](#backend)：42 项
 - [前端、设计与客户端](#frontend)：21 项
-- [网络、安全与逆向](#security)：37 项
+- [网络、安全与逆向](#security)：43 项
 - [学习、教程与资料](#learning)：73 项
 - [生活、娱乐与其他](#life)：26 项
 
@@ -31,7 +31,7 @@
 
 通用智能体框架、运行时、编排、工具协议与自动化。
 
-共 66 项。
+共 68 项。
 
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)：用于管理多个智能体与复杂对话的编排框架
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish)：结合多智能体模拟与知识图谱的群体智能预测引擎
@@ -60,6 +60,7 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)：将软件能力转换为智能体可用命令行接口的工具
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot)：支持工具、记忆、多智能体和聊天应用的轻量框架
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)：面向AI智能体的隐身无头浏览器与自动化接口
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)：覆盖生物、化学与科学计算等研究工作的智能体技能库
 - [keli-wen/agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill)：涵盖记忆、权限、上下文和多智能体协作的技能
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain)：用于构建大模型应用与多智能体流程的工程平台
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token)：旨在通过免 API 令牌方式接入多模型的 OpenClaw 项目（待复核：简介未说明接入实现与适用范围，功能主张待核实）
@@ -72,6 +73,7 @@
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)：跨社交平台与网页检索并综合摘要的智能体技能
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig)：将多种编程智能体组织为共享上下文的持久团队
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)：面向个人使用的 Hermes 开源智能体项目
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)：结合ESP32、屏幕投送与USB输入让视觉智能体操作iPhone
 - [openclaw/mcporter](https://github.com/openclaw/mcporter)：通过TypeScript调用MCP服务或将其封装为命令行的工具
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)：面向跨系统与跨平台任务执行的个人智能体项目
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip)：用于工作场景中管理智能体的开源应用
@@ -105,7 +107,7 @@
 
 编程助手、代码审查、测试、代码理解及开发工作流。
 
-共 101 项。
+共 103 项。
 
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)：无需独立服务器的代码智能分析引擎
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)：将界面截图转换为 HTML、React 或 Vue 代码的工具
@@ -172,6 +174,7 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)：根据常见模型编程问题整理的代理行为指导文件
 - [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)：支持多智能体、工作树和代码差异的本地桌面工作台
 - [nexu-io/auto-github-contributor](https://github.com/nexu-io/auto-github-contributor)：辅助选择任务、开发验证并提交开源贡献的代理技能
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm)：用于安装与切换多个Node.js版本的Shell工具
 - [obra/superpowers](https://github.com/obra/superpowers)：结合智能体技能与软件开发方法的工程框架
 - [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid)：通过编程代理把代码库转为可浏览的架构图
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：用于管理 zsh 配置、插件与主题的社区框架
@@ -206,6 +209,7 @@
 - [wallkop/opc-develop](https://github.com/wallkop/opc-develop)：用于编程代理的产品定义、开发与验证技能套件
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua)：以尊重关怀式提示辅助 AI 编程协作的技能
 - [xai-org/grok-build](https://github.com/xai-org/grok-build)：带可扩展交互式终端界面的编程代理运行框架
+- [xtool-org/xtool](https://github.com/xtool-org/xtool)：通过SwiftPM跨平台构建和部署iOS应用的开发工具
 - [yhan219/navicat_reset_mac](https://github.com/yhan219/navicat_reset_mac)：用于重置 macOS 版 Navicat 试用期的脚本（已归档）
 - [zai-org/ZCode](https://github.com/zai-org/ZCode)：Z.ai提供的可扩展编程智能体运行框架
 
@@ -214,7 +218,7 @@
 
 模型、训练与微调、推理引擎、评测、算子与性能优化。
 
-共 45 项。
+共 46 项。
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)：根据本机硬件判断模型运行适配性的命令行工具
 - [antirez/ds4](https://github.com/antirez/ds4)：面向多种图形计算后端的 DeepSeek 本地推理引擎
@@ -246,6 +250,7 @@
 - [meta-llama/llama](https://github.com/meta-llama/llama)：提供 Llama 系列模型推理代码的官方仓库
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy)：基于 Rust 与 WebGPU 的本地语言模型推理引擎
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)：用于训练智能体并结合强化学习的开源框架
+- [microsoft/BitNet](https://github.com/microsoft/BitNet)：面向一比特大语言模型的官方推理框架
 - [ml-explore/mlx](https://github.com/ml-explore/mlx)：针对Apple芯片设计的机器学习数组计算框架
 - [modular/modular](https://github.com/modular/modular)：包含MAX与Mojo语言的AI计算平台
 - [nelson-liu/lost-in-the-middle](https://github.com/nelson-liu/lost-in-the-middle)：研究语言模型长上下文使用方式的代码与数据
@@ -586,9 +591,11 @@
 
 网络连接与代理、安全检测、隐私保护和逆向分析。
 
-共 37 项。
+共 43 项。
 
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)：提供通知、历史记录与Grafana导出的轻量网络IP扫描器
+- [achillean/shodan-python](https://github.com/achillean/shodan-python)：用于访问Shodan服务的官方Python客户端库
+- [antoniaci/blackbird](https://github.com/antoniaci/blackbird)：通过用户名与邮箱搜索社交网络账号的公开情报工具
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)：收集代理工具与科学上网相关资源的仓库
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)：聚合航空器、卫星与地震等公开情报的监测界面
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)：支持递归侦察与攻击面信息收集的互联网扫描器
@@ -601,8 +608,11 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)：用于查找代码仓库中泄露秘密信息的工具
 - [goauthentik/authentik](https://github.com/goauthentik/authentik)：提供身份认证、授权与单点登录能力的平台
 - [Hinln/ARTEX](https://github.com/Hinln/ARTEX)：基于Go与Next.js的AI自主渗透测试系统源码备份
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)：查询IP、电话号码与社交用户名相关信息的情报工具
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)：审计智能体行为与任务目标一致性并评估风险的工具
 - [joernio/joern](https://github.com/joernio/joern)：基于代码属性图分析多种语言与二进制的软件平台
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)：在Apple Silicon Mac运行虚拟iPhone的研究与调试工具
+- [laramies/theHarvester](https://github.com/laramies/theHarvester)：收集邮箱、子域名与名称等公开信息的情报工具
 - [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill)：以隐藏核心知识为目的处理技能文件的反蒸馏工具
 - [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules)：面向Shadowrocket的规则仓库
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)：用于无线网络安全审计的图形化软件
@@ -618,6 +628,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)：从无线网络信号推断空间、存在与生命体征的信息（待复核：主要用途是无线感知，也可归物联网应用，暂归网络类）
 - [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector)：检测反机器人系统、验证码与浏览器指纹技术的工具
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)：按用户名跨社交网络查找账号的开源情报工具
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)：自动收集公开情报并分析威胁与攻击面的工具
 - [soxoj/maigret](https://github.com/soxoj/maigret)：通过用户名跨网站收集账号信息的开源情报工具
 - [szkane/ClashRuleSet](https://github.com/szkane/ClashRuleSet)：面向AI服务、教育应用及开发下载的Clash分流规则
 - [usestrix/strix](https://github.com/usestrix/strix)：使用人工智能代理发现与修复应用漏洞的测试工具
@@ -722,6 +733,7 @@
 - [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)：名为《我的女友景甜》的XeLaTeX排版工程
 - [iv-org/invidious](https://github.com/iv-org/invidious)：可替代YouTube官方界面的视频浏览前端
 - [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)：收录影视网站、应用、字幕、直播与相关项目的追剧资源指南
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)：支持Docker等部署方式的影视站点项目
 - [liketrek/TREK](https://github.com/liketrek/TREK)：支持协作地图、预算与行李清单的自托管旅行规划器
 - [limi124/shanshui-mingtang-fengshui-gis](https://github.com/limi124/shanshui-mingtang-fengshui-gis)：通过地形分析生成传统风水文化解读的地图平台
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)：开源低成本10.5GHz相控阵雷达系统
@@ -732,7 +744,6 @@
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi)：按自定义规则采集番剧并支持弹幕与在线播放的应用
 - [ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm)：使用Go与Vue实现的多播放源自动采集影视网站
 - [qianguyihao/duku-list](https://github.com/qianguyihao/duku-list)：整理读库历年期刊目录与内容简介以便检索
-- [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)：为游戏安装、调整和还原DLSS及相关图形组件的工具
 - [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)：包含排盘算法与传统文献数据的紫微斗数引擎
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom)：收集校园招聘相关公司负面经历的求职参考仓库
 - [silverlight6/TFTMuZeroAgent](https://github.com/silverlight6/TFTMuZeroAgent)：面向云顶之弈游戏的AI项目
