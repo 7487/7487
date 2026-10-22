@@ -19,8 +19,10 @@
 | **AMD GAIA** | 修复发布测试门禁吞掉失败、错误放行的问题；补齐后端测试依赖，并添加工作流契约测试。 | [#3573](https://github.com/amd/gaia/pull/3573) |
 | **PR-Agent** | 修复 Bitbucket Cloud / Server Provider 的行内评论定位，将 diff 行文本解析为行号，同时保留已有的整数行号调用方式。 | [#3136](https://github.com/The-PR-Agent/pr-agent/pull/3136) |
 | **OpenSandbox** | 修复 Go、JavaScript、Kotlin SDK 的就绪轮询休眠超出剩余超时预算的问题，补充回归测试。 | [Go #1744](https://github.com/opensandbox-group/OpenSandbox/pull/1744) · [JS #1745](https://github.com/opensandbox-group/OpenSandbox/pull/1745) · [Kotlin #1747](https://github.com/opensandbox-group/OpenSandbox/pull/1747) |
+| **OPA Gatekeeper** | 分离验证与状态控制器的初始化，修复仅运行 status 操作时的启动失败。 | [#4780](https://github.com/open-policy-agent/gatekeeper/pull/4780) |
+| **Local Deep Research** | 修复新闻“Run Once”忽略所选提供方和模型的问题，保留 Ollama 原生模型 ID 中的冒号。 | [#6694](https://github.com/LearningCircuit/local-deep-research/pull/6694) |
 | **Semantica** | 避免 Agent 记忆清理时重复删除向量；移除 Neptune 签名认证信息的日志输出，并补充回归测试。 | [记忆 #1379](https://github.com/semantica-agi/semantica/pull/1379) · [安全 #1373](https://github.com/semantica-agi/semantica/pull/1373) |
-| **Apache Superset** | 隔离表格单元格的格式化异常，让异常值安全降级显示，避免影响其他单元格。 | [#39658](https://github.com/apache/superset/pull/39658) |
+| **Apache Superset** | 修复表格过滤后的页码越界；隔离单元格格式化异常，让异常值安全降级显示，避免影响其他单元格。 | [分页 #39661](https://github.com/apache/superset/pull/39661) · [格式化 #39658](https://github.com/apache/superset/pull/39658) |
 
 [查看更多已合并贡献 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3A7487+-user%3A7487&type=pullrequests)
 

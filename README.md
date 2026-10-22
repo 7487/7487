@@ -19,8 +19,10 @@ A selection of **merged pull requests**, focused on correctness, compatibility, 
 | **AMD GAIA** | Fixed a release-test gate that silently swallowed failures; corrected backend-test dependencies and added workflow contract tests. | [#3573](https://github.com/amd/gaia/pull/3573) |
 | **PR-Agent** | Fixed inline-comment line resolution in the Bitbucket Cloud and Server providers, preserving the existing integer-line path. | [#3136](https://github.com/The-PR-Agent/pr-agent/pull/3136) |
 | **OpenSandbox** | Bounded readiness-polling sleeps by the remaining timeout budget in the Go, JavaScript, and Kotlin SDKs; added regression coverage. | [Go #1744](https://github.com/opensandbox-group/OpenSandbox/pull/1744) · [JS #1745](https://github.com/opensandbox-group/OpenSandbox/pull/1745) · [Kotlin #1747](https://github.com/opensandbox-group/OpenSandbox/pull/1747) |
+| **OPA Gatekeeper** | Fixed startup failures when running only the status operation by separating validation and status controller setup. | [#4780](https://github.com/open-policy-agent/gatekeeper/pull/4780) |
+| **Local Deep Research** | Made News “Run Once” honor the selected provider and model, preserving colons in native Ollama model IDs. | [#6694](https://github.com/LearningCircuit/local-deep-research/pull/6694) |
 | **Semantica** | Removed redundant vector deletion during memory erasure; removed signed Neptune authentication material from logs and added regression tests. | [Memory #1379](https://github.com/semantica-agi/semantica/pull/1379) · [Security #1373](https://github.com/semantica-agi/semantica/pull/1373) |
-| **Apache Superset** | Isolated table-cell formatting errors so a problematic value can fall back safely without disrupting other cells. | [#39658](https://github.com/apache/superset/pull/39658) |
+| **Apache Superset** | Fixed out-of-range pagination after table filtering; isolated cell-formatting errors so invalid values fall back without disrupting other cells. | [Pagination #39661](https://github.com/apache/superset/pull/39661) · [Formatting #39658](https://github.com/apache/superset/pull/39658) |
 
 [Explore more merged contributions →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3A7487+-user%3A7487&type=pullrequests)
 
