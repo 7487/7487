@@ -1,10 +1,10 @@
 # GitHub Stars 分类索引
 
-更新日期：2026-10-23（Asia/Shanghai）
+更新日期：2026-10-25（Asia/Shanghai）
 
-共收录 **653** 个公开 Star 仓库，分为 **11** 类，其中 **1** 项标记为待复核。每个仓库仅归入一个主分类。
+共收录 **655** 个公开 Star 仓库，分为 **11** 类，其中 **3** 项标记为待复核。每个仓库仅归入一个主分类。
 
-分类基线建立于2026-10-08。本次沿用同一套11类，以仓库ID逐项核对：新增15项，本次公开Stars列表不再出现0项，改名或迁移3项，归档状态变化1项。依据README与仓库内容调整2项主分类，解除16项待复核标记，保留1项待复核。历史更早的分类文件未恢复。
+分类基线建立于2026-10-08。本次以2026-10-23快照为基准，沿用同一套11类及已有映射，以仓库ID逐项核对：新增2项，本次公开Stars列表不再出现0项，改名或迁移0项，归档状态变化0项。新增2项因分类边界交叉标记为待复核，保留原有1项待复核。历史更早的分类文件未恢复。
 
 范围与方法：以 [GitHub 公开 Stars API](https://api.github.com/users/7487/starred?per_page=100) 的分页结果为准，根据仓库名称、公开描述、主题标签及部分 README 判断主要用途。公开 API 不包含不可公开读取的 Star 仓库。分类和简介用于导航，不代表安全性、质量或合规背书。
 
@@ -20,9 +20,9 @@
 - [AI应用与效率工具](#apps)：96 项
 - [后端、云与基础设施](#backend)：44 项
 - [前端、设计与客户端](#frontend)：22 项
-- [网络、安全与逆向](#security)：43 项
+- [网络、安全与逆向](#security)：44 项
 - [学习、教程与资料](#learning)：74 项
-- [生活、娱乐与其他](#life)：29 项
+- [生活、娱乐与其他](#life)：30 项
 
 待复核项在各分类中以“待复核”标出，保留临时归类并说明原因。
 
@@ -602,7 +602,7 @@
 
 网络连接与代理、安全检测、隐私保护和逆向分析。
 
-共 43 项。
+共 44 项。
 
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)：提供通知、历史记录与Grafana导出的轻量网络IP扫描器
 - [achillean/shodan-python](https://github.com/achillean/shodan-python)：用于访问Shodan服务的官方Python客户端库
@@ -636,6 +636,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)：用于反汇编及软件分析的逆向工程框架
 - [NVIDIA/garak](https://github.com/NVIDIA/garak)：用于扫描大语言模型漏洞与安全风险的工具
 - [paramiko/paramiko](https://github.com/paramiko/paramiko)：以 Python 原生实现 SSHv2 协议的连接库
+- [QAQLeonard/a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research)：为 Sony A7C II 固件 2.01 扩展创意外观、电子快门声与竖屏显示的桌面工具（待复核：涉及相机固件修改与摄影功能扩展，暂归逆向类，可复核是否更适合媒体类）
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)：从无线网络信号推断空间、存在与生命体征的信息（待复核：主要用途是无线感知，也可归物联网应用，暂归网络类）
 - [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector)：检测反机器人系统、验证码与浏览器指纹技术的工具
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)：按用户名跨社交网络查找账号的开源情报工具
@@ -735,12 +736,13 @@
 
 生活信息、娱乐、游戏及其他非核心技术用途。
 
-共 29 项。
+共 30 项。
 
 - [able8/weread-hot-booklists](https://github.com/able8/weread-hot-booklists)：整理微信读书热门书单、排行榜与笔记的项目
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)：整理 Telegram 群组、频道与机器人链接的导航集合
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)：涵盖健康、财务、法律与生活规划的资料指南
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)：依据老乡鸡公开菜品报告整理的非官方烹饪资料
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)：通过 Wi-Fi 精简 Android TV 或 Google TV 预装服务并替换电视启动器的工具（待复核：主要面向电视使用体验，也包含客户端启动器开发，暂归生活娱乐类）
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api)：自动采集、校验和测速并输出电视直播源的工具
 - [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)：名为《我的女友景甜》的XeLaTeX排版工程
 - [iv-org/invidious](https://github.com/iv-org/invidious)：可替代YouTube官方界面的视频浏览前端

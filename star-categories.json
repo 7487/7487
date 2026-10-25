@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "owner": "7487",
-  "generated_at": "2026-10-23T17:10:34+08:00",
+  "generated_at": "2026-10-25T08:58:55+08:00",
   "timezone": "Asia/Shanghai",
   "scope": "public_starred_repositories",
   "source": "https://api.github.com/users/7487/starred?per_page=100",
-  "count": 653,
+  "count": 655,
   "fresh_baseline": false,
   "previous_category_scheme_recovered": false,
   "classification_basis": "Repository name, public description, topics, and selected public README checks; one primary category per repository.",
-  "review_count": 1,
+  "review_count": 3,
   "categories": [
     {
       "id": "agents",
@@ -63,7 +63,7 @@
       "id": "security",
       "name_zh": "网络、安全与逆向",
       "description_zh": "网络连接与代理、安全检测、隐私保护和逆向分析。",
-      "count": 43
+      "count": 44
     },
     {
       "id": "learning",
@@ -75,10 +75,9 @@
       "id": "life",
       "name_zh": "生活、娱乐与其他",
       "description_zh": "生活信息、娱乐、游戏及其他非核心技术用途。",
-      "count": 29
+      "count": 30
     }
-  ]
-,
+  ],
   "repositories": [
     {"id":826182693,"full_name":"027xiguapi/code-box","url":"https://github.com/027xiguapi/code-box","category":"apps","summary_zh":"辅助博客文章导出、代码复制与页面清理的插件","language":"TypeScript","archived":false,"needs_review":false},
     {"id":832647441,"full_name":"2FastLabs/agent-squad","url":"https://github.com/2FastLabs/agent-squad","category":"agents","summary_zh":"用于管理多个智能体与复杂对话的编排框架","language":"Python","archived":false,"needs_review":false},
@@ -292,6 +291,7 @@
     {"id":1008277677,"full_name":"FSoft-AI4Code/CodeWiki","url":"https://github.com/FSoft-AI4Code/CodeWiki","category":"coding","summary_zh":"面向多语言代码仓库生成结构化项目文档的框架","language":"Python","archived":false,"needs_review":false},
     {"id":784788673,"full_name":"Gar-b-age/CookLikeHOC","url":"https://github.com/Gar-b-age/CookLikeHOC","category":"life","summary_zh":"依据老乡鸡公开菜品报告整理的非官方烹饪资料","language":"JavaScript","archived":false,"needs_review":false},
     {"id":1179264259,"full_name":"garrytan/gstack","url":"https://github.com/garrytan/gstack","category":"coding","summary_zh":"面向 Claude Code 的开发、设计、发布与测试工具集","language":"TypeScript","archived":false,"needs_review":false},
+    {"id":1423101235,"full_name":"Gathin23/cleanyourtv","url":"https://github.com/Gathin23/cleanyourtv","category":"life","summary_zh":"通过 Wi-Fi 精简 Android TV 或 Google TV 预装服务并替换电视启动器的工具","language":"Java","archived":false,"needs_review":true,"review_reason_zh":"主要面向电视使用体验，也包含客户端启动器开发，暂归生活娱乐类"},
     {"id":612354784,"full_name":"ggml-org/llama.cpp","url":"https://github.com/ggml-org/llama.cpp","category":"models","summary_zh":"使用 C 和 C++ 实现大语言模型推理的项目","language":"C++","archived":false,"needs_review":false},
     {"id":475553026,"full_name":"ghostty-org/ghostty","url":"https://github.com/ghostty-org/ghostty","category":"coding","summary_zh":"采用原生界面与图形加速的跨平台终端模拟器","language":"Zig","archived":false,"needs_review":false},
     {"id":119190187,"full_name":"gitleaks/gitleaks","url":"https://github.com/gitleaks/gitleaks","category":"security","summary_zh":"用于查找代码仓库中泄露秘密信息的工具","language":"Go","archived":false,"needs_review":false},
@@ -559,6 +559,7 @@
     {"id":623353074,"full_name":"ProudMuBai/GoFilm","url":"https://github.com/ProudMuBai/GoFilm","category":"life","summary_zh":"使用Go与Vue实现的多播放源自动采集影视网站","language":"Go","archived":false,"needs_review":false},
     {"id":54346799,"full_name":"public-apis/public-apis","url":"https://github.com/public-apis/public-apis","category":"learning","summary_zh":"由社区共同整理的免费公共API目录","language":"Python","archived":false,"needs_review":false},
     {"id":818331198,"full_name":"pydantic/pydantic-ai","url":"https://github.com/pydantic/pydantic-ai","category":"agents","summary_zh":"支持类型校验与多模型接口的 Python 代理框架","language":"Python","archived":false,"needs_review":false},
+    {"id":1423410732,"full_name":"QAQLeonard/a7c2-fl23-research","url":"https://github.com/QAQLeonard/a7c2-fl23-research","category":"security","summary_zh":"为 Sony A7C II 固件 2.01 扩展创意外观、电子快门声与竖屏显示的桌面工具","language":"Python","archived":false,"needs_review":true,"review_reason_zh":"涉及相机固件修改与摄影功能扩展，暂归逆向类，可复核是否更适合媒体类"},
     {"id":1425379596,"needs_review":false,"full_name":"QERSSD/HowToAvoidScams","url":"https://github.com/QERSSD/HowToAvoidScams","language":"HTML","archived":false,"category":"life","summary_zh":"整理常见骗局、案例和生活自查清单的中文防骗指南"},
     {"id":433687789,"full_name":"qianguyihao/duku-list","url":"https://github.com/qianguyihao/duku-list","category":"life","summary_zh":"整理读库历年期刊目录与内容简介以便检索","language":null,"archived":false,"needs_review":false},
     {"id":40759452,"full_name":"QingdaoU/OnlineJudge","url":"https://github.com/QingdaoU/OnlineJudge","category":"learning","summary_zh":"基于 Vue、Django 与 Docker 的在线程序评测系统","language":"Python","archived":false,"needs_review":false},
