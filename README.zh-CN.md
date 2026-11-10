@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/7487/7487/blob/main/README.md">English</a></p>
 
-# BingEdward
+# ZhiQi
 
 **AI Agent 与大模型工程**
 
