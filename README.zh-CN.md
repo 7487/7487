@@ -20,7 +20,9 @@
 | **PR-Agent** | 修复 Bitbucket Cloud / Server Provider 的行内评论定位，将 diff 行文本解析为行号，同时保留已有的整数行号调用方式。 | [#3136](https://github.com/The-PR-Agent/pr-agent/pull/3136) |
 | **OpenSandbox** | 修复 Go、JavaScript、Kotlin SDK 的就绪轮询休眠超出剩余超时预算的问题，补充回归测试。 | [Go #1744](https://github.com/opensandbox-group/OpenSandbox/pull/1744) · [JS #1745](https://github.com/opensandbox-group/OpenSandbox/pull/1745) · [Kotlin #1747](https://github.com/opensandbox-group/OpenSandbox/pull/1747) |
 | **OPA Gatekeeper** | 分离验证与状态控制器的初始化，修复仅运行 status 操作时的启动失败。 | [#4780](https://github.com/open-policy-agent/gatekeeper/pull/4780) |
-| **Local Deep Research** | 修复新闻“Run Once”忽略所选提供方和模型的问题，保留 Ollama 原生模型 ID 中的冒号。 | [#6694](https://github.com/LearningCircuit/local-deep-research/pull/6694) |
+| **ToolHive** | 修复 `thv run` 未向 OIDC 验证器传递自定义 CA、JWKS 令牌文件及显式允许 HTTP 的参数的问题。 | [#6529](https://github.com/stacklok/toolhive/pull/6529) |
+| **ArcadeDB** | 修复集群故障切换逻辑，拓扑刷新失败时继续尝试其他副本，并保留上一次有效的路由状态。 | [#11349](https://github.com/ArcadeData/arcadedb/pull/11349) |
+| **Local Deep Research** | 修复新闻“Run Once”未使用所选模型和提供方的问题，保留 Ollama 模型 ID 中的冒号，并在 PDF 下载重定向后正确归类 403，确保开放获取来源仍可重试。 | [新闻 #6694](https://github.com/LearningCircuit/local-deep-research/pull/6694) · [PDF #8533](https://github.com/LearningCircuit/local-deep-research/pull/8533) |
 | **Semantica** | 避免 Agent 记忆清理时重复删除向量；移除 Neptune 签名认证信息的日志输出，并补充回归测试。 | [记忆 #1379](https://github.com/semantica-agi/semantica/pull/1379) · [安全 #1373](https://github.com/semantica-agi/semantica/pull/1373) |
 | **Apache Superset** | 修复表格过滤后的页码越界；隔离单元格格式化异常，让异常值安全降级显示，避免影响其他单元格。 | [分页 #39661](https://github.com/apache/superset/pull/39661) · [格式化 #39658](https://github.com/apache/superset/pull/39658) |
 
