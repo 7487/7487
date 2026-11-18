@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/7487/7487/blob/main/README.zh-CN.md">简体中文</a></p>
 
-# BingEdward
+# ZhiQi
 
 **AI Agent & LLM Engineering**
 
