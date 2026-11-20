@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "owner": "7487",
-  "generated_at": "2026-11-13T16:58:39+08:00",
+  "generated_at": "2026-11-20T17:08:10+08:00",
   "timezone": "Asia/Shanghai",
   "scope": "public_starred_repositories",
   "source": "https://api.github.com/users/7487/starred?per_page=100",
-  "count": 698,
+  "count": 711,
   "fresh_baseline": false,
   "previous_category_scheme_recovered": false,
   "classification_basis": "Repository name, public description, topics, and selected public README checks; one primary category per repository.",
@@ -21,7 +21,7 @@
       "id": "coding",
       "name_zh": "AI编程与开发工具",
       "description_zh": "编程助手、代码审查、测试、代码理解及开发工作流。",
-      "count": 112
+      "count": 114
     },
     {
       "id": "models",
@@ -39,48 +39,49 @@
       "id": "media",
       "name_zh": "图像、视频与语音",
       "description_zh": "图像生成、视频制作、语音识别与合成、多模态媒体处理。",
-      "count": 83
+      "count": 86
     },
     {
       "id": "apps",
       "name_zh": "AI应用与效率工具",
       "description_zh": "面向使用者的AI应用、个人助理、办公与效率工具。",
-      "count": 100
+      "count": 101
     },
     {
       "id": "backend",
       "name_zh": "后端、云与基础设施",
       "description_zh": "后端框架、数据库、云平台、部署、运维及分布式系统。",
-      "count": 46
+      "count": 47
     },
     {
       "id": "frontend",
       "name_zh": "前端、设计与客户端",
       "description_zh": "界面、设计系统、可视化、客户端开发与交互工具。",
-      "count": 26
+      "count": 28
     },
     {
       "id": "security",
       "name_zh": "网络、安全与逆向",
       "description_zh": "网络连接与代理、安全检测、隐私保护和逆向分析。",
-      "count": 49
+      "count": 50
     },
     {
       "id": "learning",
       "name_zh": "学习、教程与资料",
       "description_zh": "课程、教程、书籍、资源清单、面试与工程知识。",
-      "count": 76
+      "count": 77
     },
     {
       "id": "life",
       "name_zh": "生活、娱乐与其他",
       "description_zh": "生活信息、娱乐、游戏及其他非核心技术用途。",
-      "count": 33
+      "count": 35
     }
   ]
 ,
   "repositories": [
     {"id":826182693,"full_name":"027xiguapi/code-box","url":"https://github.com/027xiguapi/code-box","category":"apps","summary_zh":"辅助博客文章导出、代码复制与页面清理的插件","language":"TypeScript","archived":false,"needs_review":false},
+    {"id":202683977,"needs_review":false,"full_name":"0voice/expert_readed_books","url":"https://github.com/0voice/expert_readed_books","language":null,"archived":false,"category":"learning","summary_zh":"面向工程师整理计算机、软件、数学、创业与思想类推荐书目"},
     {"id":832647441,"full_name":"2FastLabs/agent-squad","url":"https://github.com/2FastLabs/agent-squad","category":"agents","summary_zh":"用于管理多个智能体与复杂对话的编排框架","language":"Python","archived":false,"needs_review":false},
     {"id":32689863,"full_name":"3b1b/manim","url":"https://github.com/3b1b/manim","category":"media","summary_zh":"用于制作数学讲解动画的视频动画引擎","language":"Python","archived":false,"needs_review":false},
     {"id":1104332987,"full_name":"666ghj/MiroFish","url":"https://github.com/666ghj/MiroFish","category":"agents","summary_zh":"结合多智能体模拟与知识图谱的群体智能预测引擎","language":"Python","archived":false,"needs_review":false},
@@ -100,6 +101,7 @@
     {"id":197814629,"full_name":"actions/checkout","url":"https://github.com/actions/checkout","category":"coding","summary_zh":"在自动化工作流中检出代码仓库的操作组件","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1158722119,"full_name":"addyosmani/agent-skills","url":"https://github.com/addyosmani/agent-skills","category":"coding","summary_zh":"面向人工智能编程代理的工程实践技能集","language":"JavaScript","archived":false,"needs_review":false},
     {"id":1136590548,"full_name":"affaan-m/ECC","url":"https://github.com/affaan-m/ECC","category":"coding","summary_zh":"面向多种 AI 编程工具的技能、记忆与执行优化系统","language":"JavaScript","archived":false,"needs_review":false},
+    {"id":979392131,"needs_review":false,"full_name":"ag-ui-protocol/ag-ui","url":"https://github.com/ag-ui-protocol/ag-ui","language":"TypeScript","archived":false,"category":"frontend","summary_zh":"连接智能体与前端应用、支持用户交互的 AG-UI 协议与工具"},
     {"id":162279822,"full_name":"agalwood/Motrix","url":"https://github.com/agalwood/Motrix","category":"apps","summary_zh":"支持多种下载协议与种子任务的跨平台下载管理器","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1238047523,"full_name":"agent-substrate/substrate","url":"https://github.com/agent-substrate/substrate","category":"backend","summary_zh":"基于Kubernetes管理智能体沙箱及其生命周期的运行系统","language":"Go","archived":false,"needs_review":false},
     {"id":1127238211,"full_name":"AgentAlphaAGI/Idea2Paper","url":"https://github.com/AgentAlphaAGI/Idea2Paper","category":"agents","summary_zh":"结合知识图谱、多智能体审查与论文构思的科研框架","language":"Python","archived":false,"needs_review":false},
@@ -148,7 +150,8 @@
     {"id":933701586,"full_name":"Arindam200/awesome-ai-apps","url":"https://github.com/Arindam200/awesome-ai-apps","category":"learning","summary_zh":"展示检索增强、代理与工作流应用的项目集合","language":"Python","archived":false,"needs_review":false},
     {"id":564072810,"full_name":"Arize-ai/phoenix","url":"https://github.com/Arize-ai/phoenix","category":"models","summary_zh":"用于人工智能应用可观测性与效果评测的平台","language":"Python","archived":false,"needs_review":false},
     {"id":81142732,"full_name":"armory3d/armorpaint","url":"https://github.com/armory3d/armorpaint","category":"media","summary_zh":"面向三维绘画与纹理制作的图形创作工具","language":"C","archived":false,"needs_review":false},
-    {"id":1127650407,"full_name":"asciimoo/hister","url":"https://github.com/asciimoo/hister","category":"retrieval","summary_zh":"支持浏览历史与语义检索的个人搜索引擎","language":"Go","archived":false,"needs_review":false},
+    {"id":1127650407,"full_name":"asciimoo/nogon","url":"https://github.com/asciimoo/nogon","category":"retrieval","summary_zh":"支持浏览历史与语义检索的个人搜索引擎","language":"Go","archived":false,"needs_review":false},
+    {"id":1060352690,"needs_review":false,"full_name":"Aseiel/VideoHighlighter","url":"https://github.com/Aseiel/VideoHighlighter","language":"Python","archived":false,"category":"media","summary_zh":"基于本地 Ollama 分析视频，支持视觉搜索、高光提取、场景识别与字幕生成"},
     {"id":976921297,"full_name":"asgeirtj/system_prompts_leaks","url":"https://github.com/asgeirtj/system_prompts_leaks","category":"learning","summary_zh":"整理多家 AI 产品系统提示词的资料仓库","language":"Python","archived":false,"needs_review":false},
     {"id":1274723381,"needs_review":false,"full_name":"ashhart/TensorFold","url":"https://github.com/ashhart/TensorFold","language":"Zig","archived":false,"category":"models","summary_zh":"支持 Metal、CUDA 与 Vulkan 后端的大语言模型推理引擎"},
     {"id":906251482,"full_name":"ashishpatel26/500-AI-Agents-Projects","url":"https://github.com/ashishpatel26/500-AI-Agents-Projects","category":"learning","summary_zh":"按行业收集人工智能代理案例与开源项目链接","language":"Python","archived":false,"needs_review":false},
@@ -163,10 +166,11 @@
     {"id":1219009070,"full_name":"aws/agent-toolkit-for-aws","url":"https://github.com/aws/agent-toolkit-for-aws","category":"backend","summary_zh":"辅助代理开发 AWS 服务的官方工具与技能集","language":"Python","archived":false,"needs_review":false},
     {"id":1238120057,"full_name":"ayghri/i-have-adhd","url":"https://github.com/ayghri/i-have-adhd","category":"coding","summary_zh":"为编程代理提供更直接易读输出的技能","language":"Python","archived":false,"needs_review":false},
     {"id":121010586,"full_name":"AZeC4/TelegramGroup","url":"https://github.com/AZeC4/TelegramGroup","category":"life","summary_zh":"整理 Telegram 群组、频道与机器人链接的导航集合","language":null,"archived":false,"needs_review":false},
+    {"id":1123956658,"needs_review":false,"full_name":"backnotprop/plannotator","url":"https://github.com/backnotprop/plannotator","language":"TypeScript","archived":false,"category":"coding","summary_zh":"审阅与批注智能体计划和代码，并向智能体集中反馈的协作工作区"},
     {"id":120606279,"full_name":"baidu/braft","url":"https://github.com/baidu/braft","category":"backend","summary_zh":"基于 brpc 的 C++ Raft 分布式一致性算法实现","language":"C++","archived":false,"needs_review":false},
     {"id":1273138090,"full_name":"baidu/Unlimited-OCR","url":"https://github.com/baidu/Unlimited-OCR","category":"retrieval","summary_zh":"面向长篇内容一次性解析的OCR项目","language":"Python","archived":false,"needs_review":false},
     {"id":29219243,"full_name":"bannedbook/fanqiang","url":"https://github.com/bannedbook/fanqiang","category":"security","summary_zh":"收集代理工具与科学上网相关资源的仓库","language":"Kotlin","archived":false,"needs_review":false},
-    {"id":1215153409,"full_name":"basketikun/chatgpt2api","url":"https://github.com/basketikun/chatgpt2api","category":"backend","summary_zh":"将ChatGPT网页接口转换为兼容API并管理生成任务的项目","language":"Python","archived":false,"needs_review":false},
+    {"id":1215153409,"full_name":"basketikun/chatgpt2api","url":"https://github.com/basketikun/chatgpt2api","category":"backend","summary_zh":"将ChatGPT网页接口转换为兼容API并管理生成任务的项目","language":"Go","archived":false,"needs_review":false},
     {"id":68619379,"full_name":"bbfamily/abu","url":"https://github.com/bbfamily/abu","category":"apps","summary_zh":"基于Python的多市场量化交易与投资研究系统","language":"Python","archived":false,"needs_review":false},
     {"id":671269505,"full_name":"BerriAI/litellm","url":"https://github.com/BerriAI/litellm","category":"backend","summary_zh":"统一多模型接口并提供成本跟踪、负载均衡与日志的网关","language":"Python","archived":false,"needs_review":false},
     {"id":1173152133,"full_name":"BigBodyCobain/Shadowbroker","url":"https://github.com/BigBodyCobain/Shadowbroker","category":"security","summary_zh":"聚合航空器、卫星与地震等公开情报的监测界面","language":"Python","archived":false,"needs_review":false},
@@ -229,6 +233,7 @@
     {"id":119068473,"full_name":"cs341-illinois/coursebook","url":"https://github.com/cs341-illinois/coursebook","category":"learning","summary_zh":"伊利诺伊大学系统编程入门课程的开源教材","language":"TeX","archived":false,"needs_review":false},
     {"id":1140229822,"full_name":"cursor/plugins","url":"https://github.com/cursor/plugins","category":"coding","summary_zh":"Cursor插件规范与官方插件集合","language":"TypeScript","archived":false,"needs_review":false},
     {"id":121395510,"full_name":"CyC2018/CS-Notes","url":"https://github.com/CyC2018/CS-Notes","category":"learning","summary_zh":"覆盖算法、操作系统、网络与系统设计的面试笔记","language":"JavaScript","archived":false,"needs_review":false},
+    {"id":1457362196,"needs_review":false,"full_name":"CzzzzzzJ/mdldm-maitian","url":"https://github.com/CzzzzzzJ/mdldm-maitian","language":"JavaScript","archived":false,"category":"apps","summary_zh":"集中管理自媒体多平台发布与数据监控，并提供飞书通知和数据大屏"},
     {"id":1070053308,"full_name":"d-gangz/cc-trace-viewer","url":"https://github.com/d-gangz/cc-trace-viewer","category":"coding","summary_zh":"按时间线浏览 Claude Code 会话轨迹的网页工具","language":"Python","archived":false,"needs_review":false},
     {"id":568329126,"full_name":"d4rken-org/sdmaid-se","url":"https://github.com/d4rken-org/sdmaid-se","category":"apps","summary_zh":"面向 Android 的系统清理与文件管理应用","language":"Kotlin","archived":false,"needs_review":false},
     {"id":872119017,"full_name":"D4Vinci/Scrapling","url":"https://github.com/D4Vinci/Scrapling","category":"retrieval","summary_zh":"支持单次请求到完整爬取流程的网页采集框架","language":"Python","archived":false,"needs_review":false},
@@ -269,6 +274,7 @@
     {"id":1182081931,"full_name":"Egonex-AI/Understand-Anything","url":"https://github.com/Egonex-AI/Understand-Anything","category":"coding","summary_zh":"将代码库转为可搜索、浏览和提问的交互知识图谱","language":"TypeScript","archived":false,"needs_review":false},
     {"id":176123915,"full_name":"Eikanya/Live2d-model","url":"https://github.com/Eikanya/Live2d-model","category":"media","summary_zh":"供查阅与使用的 Live2D 模型资源集合","language":"Wolfram Language","archived":false,"needs_review":false},
     {"id":942867788,"full_name":"elder-plinius/CL4R1T4S","url":"https://github.com/elder-plinius/CL4R1T4S","category":"learning","summary_zh":"收集多个人工智能产品所称泄露的系统提示词","language":null,"archived":false,"needs_review":false},
+    {"id":1229774092,"needs_review":false,"full_name":"elementalsouls/Claude-BugHunter","url":"https://github.com/elementalsouls/Claude-BugHunter","language":"Python","archived":false,"category":"security","summary_zh":"为 Claude Code 提供漏洞挖掘与外部红队评估流程的技能包"},
     {"id":290909192,"full_name":"EleutherAI/lm-evaluation-harness","url":"https://github.com/EleutherAI/lm-evaluation-harness","category":"models","summary_zh":"用于语言模型少样本任务评测的开源框架","language":"Python","archived":false,"needs_review":false},
     {"id":1115780061,"full_name":"ent0n29/polybot","url":"https://github.com/ent0n29/polybot","category":"apps","summary_zh":"研究预测市场策略及高频交易基础设施的项目","language":"Java","archived":false,"needs_review":false},
     {"id":1359648985,"full_name":"eternity4719/HowToLiveBetter","url":"https://github.com/eternity4719/HowToLiveBetter","category":"life","summary_zh":"涵盖健康、财务、法律与生活规划的资料指南","language":"HTML","archived":false,"needs_review":false},
@@ -278,6 +284,7 @@
     {"id":1147063571,"full_name":"EvoMap/evolver","url":"https://github.com/EvoMap/evolver","category":"agents","summary_zh":"以基因、胶囊和事件记录智能体自我演进的引擎","language":"JavaScript","archived":false,"needs_review":false},
     {"id":1259346837,"full_name":"EvoMap/evolver-codex-plugin","url":"https://github.com/EvoMap/evolver-codex-plugin","category":"coding","summary_zh":"为Codex桌面端提供自我演进工作流与MCP桥接的插件","language":"JavaScript","archived":false,"needs_review":false},
     {"id":1142406715,"full_name":"EvoScientist/EvoScientist","url":"https://github.com/EvoScientist/EvoScientist","category":"agents","summary_zh":"通过自我演进智能体开展科学研究的项目","language":"Python","archived":false,"needs_review":false},
+    {"id":543716408,"needs_review":false,"full_name":"exposir/supernatural_tianya","url":"https://github.com/exposir/supernatural_tianya","language":null,"archived":false,"category":"life","summary_zh":"保存天涯帖子《中国有没有调查异事件的官方机构？》的阅读资料"},
     {"id":1184985738,"full_name":"eze-is/web-access","url":"https://github.com/eze-is/web-access","category":"coding","summary_zh":"为 Claude Code 提供多通道联网与浏览器能力的技能","language":"JavaScript","archived":false,"needs_review":false},
     {"id":574523116,"full_name":"f/prompts.chat","url":"https://github.com/f/prompts.chat","category":"learning","summary_zh":"支持分享、发现、收藏与自托管的社区提示词库","language":"MDX","archived":false,"needs_review":false},
     {"id":917979862,"full_name":"Faceplugin-ltd/Open-Source-Face-Recognition-SDK","url":"https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK","category":"media","summary_zh":"提供人脸检测、识别、活体判断与特征提取的工具包","language":"Python","archived":false,"needs_review":false},
@@ -304,6 +311,7 @@
     {"id":1202057891,"needs_review":false,"full_name":"garrytan/gbrain","url":"https://github.com/garrytan/gbrain","language":"TypeScript","archived":false,"category":"retrieval","summary_zh":"为多个 Agent 提供带来源的事实存储、修订与检索的持久记忆系统"},
     {"id":1179264259,"full_name":"garrytan/gstack","url":"https://github.com/garrytan/gstack","category":"coding","summary_zh":"面向 Claude Code 的开发、设计、发布与测试工具集","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1423101235,"full_name":"Gathin23/cleanyourtv","url":"https://github.com/Gathin23/cleanyourtv","category":"life","summary_zh":"通过 Wi-Fi 精简 Android TV 或 Google TV 预装服务并替换电视启动器的工具","language":"Python","archived":false,"needs_review":false},
+    {"id":968905557,"needs_review":false,"full_name":"getarcaneapp/arcane","url":"https://github.com/getarcaneapp/arcane","language":"Go","archived":false,"category":"backend","summary_zh":"通过 Web 界面管理 Docker 容器、镜像与 Compose 应用的工具"},
     {"id":612354784,"full_name":"ggml-org/llama.cpp","url":"https://github.com/ggml-org/llama.cpp","category":"models","summary_zh":"使用 C 和 C++ 实现大语言模型推理的项目","language":"C++","archived":false,"needs_review":false},
     {"id":475553026,"full_name":"ghostty-org/ghostty","url":"https://github.com/ghostty-org/ghostty","category":"coding","summary_zh":"采用原生界面与图形加速的跨平台终端模拟器","language":"Zig","archived":false,"needs_review":false},
     {"id":119190187,"full_name":"gitleaks/gitleaks","url":"https://github.com/gitleaks/gitleaks","category":"security","summary_zh":"用于查找代码仓库中泄露秘密信息的工具","language":"Go","archived":false,"needs_review":false},
@@ -315,6 +323,7 @@
     {"id":666376652,"full_name":"google-deepmind/weathernext","url":"https://github.com/google-deepmind/weathernext","category":"models","summary_zh":"用于全球中期天气及气旋预测的WeatherNext模型代码","language":"Python","archived":false,"needs_review":false},
     {"id":968197216,"full_name":"google-gemini/gemini-cli","url":"https://github.com/google-gemini/gemini-cli","category":"coding","summary_zh":"将 Gemini 智能体引入终端的开源命令行工具","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1207222725,"full_name":"google-labs-code/design.md","url":"https://github.com/google-labs-code/design.md","category":"frontend","summary_zh":"向编程代理描述视觉风格与设计系统的格式规范","language":"TypeScript","archived":false,"needs_review":false},
+    {"id":1135847870,"needs_review":false,"full_name":"google-labs-code/stitch-skills","url":"https://github.com/google-labs-code/stitch-skills","language":"TypeScript","archived":false,"category":"frontend","summary_zh":"连接 Google Stitch 的智能体技能与插件，支持界面设计、设计系统管理和前端组件生成"},
     {"id":793784055,"full_name":"google-research/timesfm","url":"https://github.com/google-research/timesfm","category":"models","summary_zh":"由Google Research开发的预训练时间序列预测模型","language":"Python","archived":false,"needs_review":false},
     {"id":1196447493,"full_name":"google/ax","url":"https://github.com/google/ax","category":"agents","summary_zh":"Google提供的智能体编排运行时","language":"Go","archived":false,"needs_review":false},
     {"id":1197652028,"full_name":"google/skills","url":"https://github.com/google/skills","category":"agents","summary_zh":"面向Google产品与技术的智能体技能集合","language":"Python","archived":false,"needs_review":false},
@@ -330,14 +339,14 @@
     {"id":695864515,"full_name":"hacksider/Deep-Live-Cam","url":"https://github.com/hacksider/Deep-Live-Cam","category":"media","summary_zh":"基于单张图片进行实时换脸和视频生成的工具","language":"Python","archived":false,"needs_review":false},
     {"id":1204004374,"full_name":"handsomestWei/patent-disclosure-skill","url":"https://github.com/handsomestWei/patent-disclosure-skill","category":"apps","summary_zh":"辅助中国专利挖掘、交底书编写与审查答复的技能","language":"Python","archived":false,"needs_review":false},
     {"id":1289876891,"full_name":"haradakashiwa/ternssh","url":"https://github.com/haradakashiwa/ternssh","category":"backend","summary_zh":"可部署在Cloudflare Workers上的网页SSH工具","language":"TypeScript","archived":false,"needs_review":false},
-    {"id":1255237198,"full_name":"HarnessMD/munder-difflin","url":"https://github.com/HarnessMD/munder-difflin","category":"agents","summary_zh":"在本机或沙箱运行多种编程智能体团队的工作区","language":"JavaScript","archived":false,"needs_review":false},
+    {"id":1255237198,"full_name":"HarnessMD/munder-difflin","url":"https://github.com/HarnessMD/munder-difflin","category":"agents","summary_zh":"在本机或沙箱运行多种编程智能体团队的工作区","language":"TypeScript","archived":false,"needs_review":false},
     {"id":770153867,"full_name":"harry0703/MoneyPrinterTurbo","url":"https://github.com/harry0703/MoneyPrinterTurbo","category":"media","summary_zh":"依据主题或关键词自动生成短视频的 AI 工作流","language":"Python","archived":false,"needs_review":false},
     {"id":1163168741,"full_name":"harshkedia177/axon","url":"https://github.com/harshkedia177/axon","category":"coding","summary_zh":"将代码库建立为知识图谱并通过MCP及命令行查询的工具","language":"Python","archived":false,"needs_review":false},
     {"id":1184892122,"full_name":"hasaneyldrm/exercises-dataset","url":"https://github.com/hasaneyldrm/exercises-dataset","category":"retrieval","summary_zh":"包含动作演示、肌群器械与多语言说明的健身数据集","language":"HTML","archived":false,"needs_review":false},
     {"id":1129940957,"full_name":"headroomlabs-ai/headroom","url":"https://github.com/headroomlabs-ai/headroom","category":"retrieval","summary_zh":"在送入语言模型前压缩工具输出与检索上下文","language":"Python","archived":false,"needs_review":false},
     {"id":1348410551,"full_name":"HEJustinSun/my-girlfriend-jingtian-latex","url":"https://github.com/HEJustinSun/my-girlfriend-jingtian-latex","category":"life","summary_zh":"名为《我的女友景甜》的XeLaTeX排版工程","language":"TeX","archived":false,"needs_review":false},
     {"id":1149023093,"full_name":"HenryNdubuaku/maths-cs-ai-compendium","url":"https://github.com/HenryNdubuaku/maths-cs-ai-compendium","category":"learning","summary_zh":"涵盖数学、计算机与机器学习的直觉式教材","language":"TypeScript","archived":false,"needs_review":false},
-    {"id":1177402105,"full_name":"heygen-com/hyperframes","url":"https://github.com/heygen-com/hyperframes","category":"media","summary_zh":"通过编写网页内容来渲染视频的代理开发框架","language":"TypeScript","archived":false,"needs_review":false},
+    {"id":1177402105,"full_name":"heygen-com/hyperframes","url":"https://github.com/heygen-com/hyperframes","category":"media","summary_zh":"将 HTML、CSS 与媒体渲染为视频，并提供智能体技能与桌面编辑应用的框架","language":"TypeScript","archived":false,"needs_review":false},
     {"id":134999697,"full_name":"higgsfield-ai/higgsfield","url":"https://github.com/higgsfield-ai/higgsfield","category":"models","summary_zh":"面向大规模模型训练的GPU编排与机器学习框架","language":"Jupyter Notebook","archived":true,"needs_review":false},
     {"id":1410177931,"full_name":"Hinln/ARTEX","url":"https://github.com/Hinln/ARTEX","category":"security","summary_zh":"基于Go与Next.js的AI自主渗透测试系统源码备份","language":"Go","archived":false,"needs_review":false},
     {"id":1331728719,"full_name":"Hisn00w/ASu-skills","url":"https://github.com/Hisn00w/ASu-skills","category":"apps","summary_zh":"涵盖简历优化、岗位投递、面试与开发效率的AI技能集合","language":"HTML","archived":false,"needs_review":false},
@@ -379,6 +388,7 @@
     {"id":1180745961,"full_name":"JCodesMore/ai-website-cloner-template","url":"https://github.com/JCodesMore/ai-website-cloner-template","category":"coding","summary_zh":"通过人工智能编程代理复刻网站的项目模板","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1293238217,"needs_review":false,"full_name":"JetBrains/thinkrail","url":"https://github.com/JetBrains/thinkrail","language":"TypeScript","archived":false,"category":"coding","summary_zh":"集成 Pi 编程 Agent 与技能工作流的轻量 IDE"},
     {"id":1379574728,"full_name":"jev-chat/jev-chat-jarvis","url":"https://github.com/jev-chat/jev-chat-jarvis","category":"apps","summary_zh":"分析聊天意图与风险并起草回复的聊天辅助工具","language":"Kotlin","archived":false,"needs_review":false},
+    {"id":1426514073,"needs_review":false,"full_name":"JGRFW/ComfyUI-CharacterCardStudio","url":"https://github.com/JGRFW/ComfyUI-CharacterCardStudio","language":"Python","archived":false,"category":"media","summary_zh":"为 ComfyUI 生成角色参考卡并自动切分与重组图像的节点"},
     {"id":1450012790,"needs_review":false,"full_name":"jhaizhou-ops/S2Arm","url":"https://github.com/jhaizhou-ops/S2Arm","language":"C#","archived":false,"category":"life","summary_zh":"通过 ARM64 重编译与 Metal 图形支持在苹果设备运行自有 Switch 游戏的工具"},
     {"id":1204131622,"full_name":"jiangmuran/noterx","url":"https://github.com/jiangmuran/noterx","category":"apps","summary_zh":"结合预测模型与多代理分析小红书帖子及受众","language":"Python","archived":true,"needs_review":false},
     {"id":1133207146,"full_name":"JimLiu/baoyu-skills","url":"https://github.com/JimLiu/baoyu-skills","category":"apps","summary_zh":"用于图文创作、发布与日常工作提效的代理技能集","language":"TypeScript","archived":false,"needs_review":false},
@@ -393,7 +403,7 @@
     {"id":1382467199,"full_name":"JohnHeibel/PDoomVideo","url":"https://github.com/JohnHeibel/PDoomVideo","category":"media","summary_zh":"使用Claude制作音乐视频的源代码项目","language":"JavaScript","archived":false,"needs_review":false},
     {"id":966185288,"full_name":"Joooook/12306-mcp","url":"https://github.com/Joooook/12306-mcp","category":"apps","summary_zh":"通过模型上下文协议查询铁路车票的服务","language":"JavaScript","archived":false,"needs_review":false},
     {"id":442136040,"full_name":"jsbaan/transformer-from-scratch","url":"https://github.com/jsbaan/transformer-from-scratch","category":"learning","summary_zh":"用于教学的 Transformer 实现，包含文档与测试","language":"Python","archived":false,"needs_review":false},
-    {"id":1201173969,"full_name":"JuliusBrussee/caveman","url":"https://github.com/JuliusBrussee/caveman","category":"coding","summary_zh":"通过精简回复语言减少编程代理令牌开销的技能","language":"Go","archived":false,"needs_review":false},
+    {"id":1201173969,"full_name":"JuliusBrussee/caveman","url":"https://github.com/JuliusBrussee/caveman","category":"coding","summary_zh":"通过精简回复与工具输出、提供本地代理来减少编程智能体上下文开销的工具与技能","language":"Go","archived":false,"needs_review":false},
     {"id":1157171418,"full_name":"jundot/omlx","url":"https://github.com/jundot/omlx","category":"models","summary_zh":"支持连续批处理与SSD缓存的Apple芯片模型推理服务器","language":"Python","archived":false,"needs_review":false},
     {"id":481797111,"full_name":"JunkFood02/Seal","url":"https://github.com/JunkFood02/Seal","category":"media","summary_zh":"基于 yt-dlp 的 Android 音视频下载应用","language":"Kotlin","archived":false,"needs_review":false},
     {"id":1431545439,"needs_review":false,"full_name":"JustAResearcher/gpu-unlock-ada","url":"https://github.com/JustAResearcher/gpu-unlock-ada","language":"C","archived":false,"category":"security","summary_zh":"研究并解锁部分 NVIDIA Ada GPU 张量运算限制的固件与内核工具"},
@@ -457,6 +467,7 @@
     {"id":1092047360,"needs_review":false,"full_name":"luongnv89/claude-howto","url":"https://github.com/luongnv89/claude-howto","language":"Python","archived":false,"category":"learning","summary_zh":"通过图解、示例和模板学习 Claude Code、技能与智能体工作流的指南"},
     {"id":652712035,"full_name":"lyogavin/airllm","url":"https://github.com/lyogavin/airllm","category":"models","summary_zh":"支持以较低显存执行大语言模型推理的项目","language":"Jupyter Notebook","archived":false,"needs_review":false},
     {"id":942706067,"full_name":"lzsheng/Yapi-MCP","url":"https://github.com/lzsheng/Yapi-MCP","category":"coding","summary_zh":"用于接入 YApi 服务的模型上下文协议服务器","language":"TypeScript","archived":false,"needs_review":false},
+    {"id":94362080,"needs_review":false,"full_name":"M-Mono/Stories-about-Ming-Dynasty","url":"https://github.com/M-Mono/Stories-about-Ming-Dynasty","language":"TeX","archived":false,"category":"life","summary_zh":"整理《明朝那些事儿》全七卷的阅读与排版资料"},
     {"id":1092407718,"full_name":"macro-inc/macro","url":"https://github.com/macro-inc/macro","category":"apps","summary_zh":"以共享AI记忆连接邮件、文档、任务、沟通与客户管理的工作区","language":"Rust","archived":false,"needs_review":false},
     {"id":1267145484,"full_name":"magnitudedev/magnitude","url":"https://github.com/magnitudedev/magnitude","category":"models","summary_zh":"面向本机硬件自动编译并调优内核的模型推理引擎","language":"Rust","archived":false,"needs_review":false},
     {"id":1309102418,"needs_review":false,"full_name":"makecindy/cindy","url":"https://github.com/makecindy/cindy","language":"TypeScript","archived":false,"category":"apps","summary_zh":"整合多种 Agent、跨设备会话与电脑操作的个人 AI 助手"},
@@ -489,7 +500,7 @@
     {"id":776985468,"full_name":"microsoft/TinyTroupe","url":"https://github.com/microsoft/TinyTroupe","category":"agents","summary_zh":"通过语言模型模拟多智能体角色与行为的研究工具","language":"Jupyter Notebook","archived":false,"needs_review":false},
     {"id":1044296738,"full_name":"microsoft/VibeVoice","url":"https://github.com/microsoft/VibeVoice","category":"media","summary_zh":"微软开源的 VibeVoice 语音人工智能项目","language":"Python","archived":false,"needs_review":false},
     {"id":1191521334,"full_name":"midudev/autoskills","url":"https://github.com/midudev/autoskills","category":"agents","summary_zh":"通过单个命令安装人工智能技能组合的工具","language":"Ruby","archived":false,"needs_review":false},
-    {"id":1444372497,"needs_review":false,"full_name":"Minireel/HGhub","url":"https://github.com/Minireel/HGhub","language":null,"archived":false,"category":"life","summary_zh":"原 YellowFruit 第三方影视客户端，作者已停止维护并撤下代码与发行版本"},
+    {"id":1444372497,"needs_review":false,"full_name":"Minireel/HGhub","url":"https://github.com/Minireel/HGhub","language":"Rust","archived":false,"category":"life","summary_zh":"通过插件接入内容来源，集中浏览、搜索、播放与管理个人片库的视频播放器"},
     {"id":1164477708,"full_name":"mksglu/context-mode","url":"https://github.com/mksglu/context-mode","category":"coding","summary_zh":"通过工具输出隔离与会话记忆优化编程代理上下文","language":"JavaScript","archived":false,"needs_review":false},
     {"id":724854743,"full_name":"ml-explore/mlx","url":"https://github.com/ml-explore/mlx","category":"models","summary_zh":"针对Apple芯片设计的机器学习数组计算框架","language":"C++","archived":false,"needs_review":false},
     {"id":634043200,"full_name":"modular/modular","url":"https://github.com/modular/modular","category":"models","summary_zh":"包含MAX与Mojo语言的AI计算平台","language":"Mojo","archived":false,"needs_review":false},
@@ -680,6 +691,7 @@
     {"id":909213664,"full_name":"TauricResearch/TradingAgents","url":"https://github.com/TauricResearch/TradingAgents","category":"apps","summary_zh":"利用多代理语言模型进行金融交易研究的框架","language":"Python","archived":false,"needs_review":false},
     {"id":1244617222,"full_name":"teamchong/pxpipe","url":"https://github.com/teamchong/pxpipe","category":"coding","summary_zh":"将文本上下文转成图片以减少编程代理令牌开销","language":"TypeScript","archived":false,"needs_review":false},
     {"id":215654064,"full_name":"temporalio/temporal","url":"https://github.com/temporalio/temporal","category":"backend","summary_zh":"面向分布式应用的持久执行与工作流编排服务","language":"Go","archived":false,"needs_review":false},
+    {"id":1314510108,"needs_review":false,"full_name":"Tencent/LoopForge","url":"https://github.com/Tencent/LoopForge","language":"Go","archived":false,"category":"coding","summary_zh":"通过脚本与人工审批编排 CodeBuddy、Codex 和 Claude Code 的自托管开发交付流程"},
     {"id":1222364235,"full_name":"Tencent/teamai-cli","url":"https://github.com/Tencent/teamai-cli","category":"agents","summary_zh":"在团队成员与智能体之间共享技能、规则及MCP资源的工具","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1206553433,"full_name":"TencentCloud/CubeSandbox","url":"https://github.com/TencentCloud/CubeSandbox","category":"backend","summary_zh":"为人工智能代理提供并发隔离运行环境","language":"Go","archived":false,"needs_review":false},
     {"id":1203558071,"full_name":"TencentCloud/TencentDB-Agent-Memory","url":"https://github.com/TencentCloud/TencentDB-Agent-Memory","category":"retrieval","summary_zh":"将对话、文档与代码整理为团队共享代理记忆","language":"TypeScript","archived":false,"needs_review":false},
@@ -720,6 +732,7 @@
     {"id":1134411737,"full_name":"vercel-labs/json-render","url":"https://github.com/vercel-labs/json-render","category":"frontend","summary_zh":"用于构建生成式用户界面的开源框架","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1134543109,"full_name":"vercel-labs/skills","url":"https://github.com/vercel-labs/skills","category":"agents","summary_zh":"用于安装与管理开放智能体技能的工具","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1184541668,"full_name":"vibe-motion/skills","url":"https://github.com/vibe-motion/skills","category":"media","summary_zh":"用于程序化动画、品牌动效和视频渲染的智能体技能集","language":"HTML","archived":false,"needs_review":false},
+    {"id":1436883149,"needs_review":false,"full_name":"vibe-motion/sound","url":"https://github.com/vibe-motion/sound","language":"Python","archived":false,"category":"media","summary_zh":"为视频制作从 Freesound 搜索、筛选并下载音效的 Claude Code 技能"},
     {"id":896144595,"needs_review":false,"full_name":"virattt/ai-hedge-fund","url":"https://github.com/virattt/ai-hedge-fund","language":"Python","archived":false,"category":"apps","summary_zh":"以多个 AI 投资分析角色开展模拟交易与历史回测的研究应用"},
     {"id":1003043071,"full_name":"vitali87/code-graph-rag","url":"https://github.com/vitali87/code-graph-rag","category":"coding","summary_zh":"以知识图谱和RAG查询、理解及编辑多语言代码库的工具","language":"Python","archived":false,"needs_review":false},
     {"id":599547518,"needs_review":false,"full_name":"vllm-project/vllm","url":"https://github.com/vllm-project/vllm","language":"Python","archived":false,"category":"models","summary_zh":"面向大语言模型的高吞吐、低显存开销推理与服务引擎"},
@@ -738,7 +751,7 @@
     {"id":830077101,"full_name":"wechat-article/wechat-article-exporter","url":"https://github.com/wechat-article/wechat-article-exporter","category":"retrieval","summary_zh":"批量导出微信公众号文章、阅读量与评论数据","language":"TypeScript","archived":false,"needs_review":false},
     {"id":1412627538,"full_name":"wenhuadexuemai/meta-thinking-method","url":"https://github.com/wenhuadexuemai/meta-thinking-method","category":"agents","summary_zh":"面向方案、文档与代码等交付物的迭代重审技能","language":null,"archived":false,"needs_review":false},
     {"id":447363864,"full_name":"WhiskeySockets/Baileys","url":"https://github.com/WhiskeySockets/Baileys","category":"backend","summary_zh":"基于套接字实现WhatsApp Web接口的TypeScript工具库","language":"JavaScript","archived":false,"needs_review":false},
-    {"id":1293375068,"needs_review":false,"full_name":"withmarbleapp/os-taxonomy","url":"https://github.com/withmarbleapp/os-taxonomy","language":"JavaScript","archived":false,"category":"retrieval","summary_zh":"以 JSON 数据和先修关系图组织小学课程知识点的开放教育数据集"},
+    {"id":1293375068,"needs_review":false,"full_name":"withmarbleapp/os-taxonomy","url":"https://github.com/withmarbleapp/os-taxonomy","language":"HTML","archived":false,"category":"retrieval","summary_zh":"以 JSON 数据和先修关系图组织小学课程知识点的开放教育数据集"},
     {"id":130011351,"full_name":"wowlusitong/awesome-education","url":"https://github.com/wowlusitong/awesome-education","category":"life","summary_zh":"收集面向学生的软件与服务教育优惠","language":null,"archived":false,"needs_review":false},
     {"id":445044283,"full_name":"wpzzz/blocked-sites-in-south-korea","url":"https://github.com/wpzzz/blocked-sites-in-south-korea","category":"security","summary_zh":"包含韩国受限网站列表及拦截页面特征检测脚本的网络资料仓库","language":"Python","archived":false,"needs_review":false},
     {"id":1378490139,"full_name":"wquguru/dasheng","url":"https://github.com/wquguru/dasheng","category":"learning","summary_zh":"结合流式语音识别与逐词判断的英文朗读评分工具","language":"JavaScript","archived":false,"needs_review":false},

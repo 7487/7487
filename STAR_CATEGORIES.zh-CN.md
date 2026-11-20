@@ -1,10 +1,10 @@
 # GitHub Stars 分类索引
 
-更新日期：2026-11-13（Asia/Shanghai）
+更新日期：2026-11-20（Asia/Shanghai）
 
-共收录 **698** 个公开 Star 仓库，分为 **11** 类，其中 **3** 项标记为待复核。每个仓库仅归入一个主分类。
+共收录 **711** 个公开 Star 仓库，分为 **11** 类，其中 **3** 项标记为待复核。每个仓库仅归入一个主分类。
 
-分类基线建立于2026-10-08。本次沿用同一套11类，以仓库ID逐项核对：新增16项，本次公开Stars列表不再出现0项，改名或迁移4项，归档状态变化0项。依据README与仓库内容调整0项主分类，解除0项待复核标记，新增1项待复核，共3项待复核。历史更早的分类文件未恢复。
+分类基线建立于2026-10-08。本次沿用同一套11类，以仓库ID逐项核对：新增13项，本次公开Stars列表不再出现0项，改名或迁移1项，归档状态变化0项。依据README与仓库内容调整0项主分类，更新3项已有简介，解除0项待复核标记，保留3项待复核。历史更早的分类文件未恢复。
 
 范围与方法：以 [GitHub 公开 Stars API](https://api.github.com/users/7487/starred?per_page=100) 的分页结果为准，根据仓库名称、公开描述、主题标签及部分 README 判断主要用途。公开 API 不包含不可公开读取的 Star 仓库。分类和简介用于导航，不代表安全性、质量或合规背书。
 
@@ -13,16 +13,16 @@
 ## 分类导航
 
 - [Agent框架与自动化](#agents)：73 项
-- [AI编程与开发工具](#coding)：112 项
+- [AI编程与开发工具](#coding)：114 项
 - [模型训练与推理](#models)：52 项
 - [检索、记忆与数据](#retrieval)：48 项
-- [图像、视频与语音](#media)：83 项
-- [AI应用与效率工具](#apps)：100 项
-- [后端、云与基础设施](#backend)：46 项
-- [前端、设计与客户端](#frontend)：26 项
-- [网络、安全与逆向](#security)：49 项
-- [学习、教程与资料](#learning)：76 项
-- [生活、娱乐与其他](#life)：33 项
+- [图像、视频与语音](#media)：86 项
+- [AI应用与效率工具](#apps)：101 项
+- [后端、云与基础设施](#backend)：47 项
+- [前端、设计与客户端](#frontend)：28 项
+- [网络、安全与逆向](#security)：50 项
+- [学习、教程与资料](#learning)：77 项
+- [生活、娱乐与其他](#life)：35 项
 
 待复核项在各分类中以“待复核”标出，保留临时归类并说明原因。
 
@@ -112,7 +112,7 @@
 
 编程助手、代码审查、测试、代码理解及开发工作流。
 
-共 112 项。
+共 114 项。
 
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)：无需独立服务器的代码智能分析引擎
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)：将界面截图转换为 HTML、React 或 Vue 代码的工具
@@ -129,6 +129,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)：为GitHub等代码托管平台仓库生成AI知识文档的工具
 - [AsyncFuncAI/grok-wiki](https://github.com/AsyncFuncAI/grok-wiki)：通过本地命令行智能体为代码库生成带源码引用的技术 Wiki 与架构地图
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)：为编程代理提供更直接易读输出的技能
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator)：审阅与批注智能体计划和代码，并向智能体集中反馈的协作工作区
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)：通过本地应用与代理管理应用商店提交的工具
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)：将PS5可执行程序自动移植到Linux和Windows的工具
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow)：在浏览器中把代码仓库转为交互式架构依赖图
@@ -170,7 +171,7 @@
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)：通过人工智能编程代理复刻网站的项目模板
 - [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)：集成 Pi 编程 Agent 与技能工作流的轻量 IDE
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)：提供多种AI开发工具账号切换、配额与实例管理的应用
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)：通过精简回复语言减少编程代理令牌开销的技能
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)：通过精简回复与工具输出、提供本地代理来减少编程智能体上下文开销的工具与技能
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf)：持续迭代、验证并提交改动的编程代理编排工具
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)：为代码库编写和维护智能体文档的命令行工具
 - [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo)：引导Codex按最终结果生成标题、注释及提交说明的技能
@@ -211,6 +212,7 @@
 - [steipete/CodexBar](https://github.com/steipete/CodexBar)：展示 Codex 与 Claude Code 使用量的工具
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)：尝试依据 GitHub 问题自动修复代码的软件智能体
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe)：将文本上下文转成图片以减少编程代理令牌开销
+- [Tencent/LoopForge](https://github.com/Tencent/LoopForge)：通过脚本与人工审批编排 CodeBuddy、Codex 和 Claude Code 的自托管开发交付流程
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)：用于拉取请求代码审查的开源 AI 助手
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)：建立持久代码图谱以辅助审查和大型仓库分析的本地工具
 - [tutti-os/tutti](https://github.com/tutti-os/tutti)：支持人员与多种编程代理协作的本地优先工作台
@@ -299,7 +301,7 @@
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)：为编程智能体提供长期记忆及跨供应商任务交接的方案
 - [allenai/olmocr](https://github.com/allenai/olmocr)：将 PDF 内容线性化以构建语言模型训练数据
 - [apache/superset](https://github.com/apache/superset)：用于数据查询、探索与可视化的商业分析平台
-- [asciimoo/hister](https://github.com/asciimoo/hister)：支持浏览历史与语义检索的个人搜索引擎
+- [asciimoo/nogon](https://github.com/asciimoo/nogon)：支持浏览历史与语义检索的个人搜索引擎
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)：面向长篇内容一次性解析的OCR项目
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)：汇集新闻、问答和百科等中文自然语言处理语料
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)：结合本地知识库、检索增强与智能体的大模型应用
@@ -348,7 +350,7 @@
 
 图像生成、视频制作、语音识别与合成、多模态媒体处理。
 
-共 83 项。
+共 86 项。
 
 - [3b1b/manim](https://github.com/3b1b/manim)：用于制作数学讲解动画的视频动画引擎
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)：整合语音合成、声音克隆与音频处理的网页界面
@@ -356,6 +358,7 @@
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)：整合多种生成模型的自托管图像与视频工作室
 - [anomalyco/hex](https://github.com/anomalyco/hex)：在 macOS、Windows 与 Linux 上本地运行的语音听写工具
 - [armory3d/armorpaint](https://github.com/armory3d/armorpaint)：面向三维绘画与纹理制作的图形创作工具
+- [Aseiel/VideoHighlighter](https://github.com/Aseiel/VideoHighlighter)：基于本地 Ollama 分析视频，支持视觉搜索、高光提取、场景识别与字幕生成
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)：整合图像生成与语音合成的自动短视频引擎
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：用于 Stable Diffusion 图像生成的网页界面
 - [averygan/reclip](https://github.com/averygan/reclip)：支持网页界面和自托管的视频下载工具
@@ -380,7 +383,7 @@
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)：用于去除自有内容中AI水印的隐私优先应用
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)：基于单张图片进行实时换脸和视频生成的工具
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)：依据主题或关键词自动生成短视频的 AI 工作流
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)：通过编写网页内容来渲染视频的代理开发框架
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)：将 HTML、CSS 与媒体渲染为视频，并提供智能体技能与桌面编辑应用的框架
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax)：将导演、编剧与制作代理整合到视频生成流程
 - [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)：从单张图片制作可绑定、变形与实时驱动的二维虚拟形象编辑器
 - [huailiang/LipSync](https://github.com/huailiang/LipSync)：在 Unity 中根据语音生成口型动画的工具
@@ -390,6 +393,7 @@
 - [ictnlp/StreamSpeech](https://github.com/ictnlp/StreamSpeech)：整合语音识别、同声翻译与语音合成的模型
 - [immich-app/immich](https://github.com/immich-app/immich)：用于自托管照片、视频管理与备份的开源系统
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox)：支持声音克隆、口述与内容创作的开源语音工作室
+- [JGRFW/ComfyUI-CharacterCardStudio](https://github.com/JGRFW/ComfyUI-CharacterCardStudio)：为 ComfyUI 生成角色参考卡并自动切分与重组图像的节点
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)：用于抖音与 TikTok 作品下载和数据采集的工具
 - [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)：结合p5.js与手绘笔刷制作角色动画的入门模板
 - [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)：使用Claude制作音乐视频的源代码项目
@@ -425,6 +429,7 @@
 - [storytold/artcraft](https://github.com/storytold/artcraft)：面向艺术家、设计师与电影制作的图像视频创作工具
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic)：通过 ONNX 在设备本地运行的多语言语音合成工具（已归档）
 - [vibe-motion/skills](https://github.com/vibe-motion/skills)：用于程序化动画、品牌动效和视频渲染的智能体技能集
+- [vibe-motion/sound](https://github.com/vibe-motion/sound)：为视频制作从 Freesound 搜索、筛选并下载音效的 Claude Code 技能
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)：覆盖分镜与制作流程的智能体影视生产平台
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist)：整合小雅 Alist、Emby 与媒体元数据管理的安装工具
 - [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)：汇集Claude生成视频案例、提示词与复刻演示的项目
@@ -439,7 +444,7 @@
 
 面向使用者的AI应用、个人助理、办公与效率工具。
 
-共 100 项。
+共 101 项。
 
 - [027xiguapi/code-box](https://github.com/027xiguapi/code-box)：辅助博客文章导出、代码复制与页面清理的插件
 - [77AutumN/Intel_Briefing](https://github.com/77AutumN/Intel_Briefing)：跟踪科技热点、产品趋势和学术进展的情报聚合系统
@@ -466,6 +471,7 @@
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)：提供岗位搜索、简历匹配与申请跟踪的求职代理
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)：运行在 Cloudflare Workers 上的代理邮件客户端
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)：面向内容营销、搜索优化与增长的代理技能集
+- [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)：集中管理自媒体多平台发布与数据监控，并提供飞书通知和数据大屏
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)：面向 Android 的系统清理与文件管理应用
 - [different-ai/openwork](https://github.com/different-ai/openwork)：基于opencode构建的Claude Cowork开源替代应用
 - [dream-num/univer](https://github.com/dream-num/univer)：集成表格、文档、幻灯片及PDF的智能体办公运行时
@@ -547,7 +553,7 @@
 
 后端框架、数据库、云平台、部署、运维及分布式系统。
 
-共 46 项。
+共 47 项。
 
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate)：基于Kubernetes管理智能体沙箱及其生命周期的运行系统
 - [apache/brpc](https://github.com/apache/brpc)：面向搜索、存储等高性能系统的 C++ RPC 框架
@@ -567,6 +573,7 @@
 - [eventlet/eventlet](https://github.com/eventlet/eventlet)：用于 Python 并发网络编程的开源库
 - [fastapi/fastapi](https://github.com/fastapi/fastapi)：基于 Python 类型提示构建 Web API 的 FastAPI 框架
 - [floci-io/floci](https://github.com/floci-io/floci)：用于本地开发与测试的 AWS 云服务模拟器
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)：通过 Web 界面管理 Docker 容器、镜像与 Compose 应用的工具
 - [haradakashiwa/ternssh](https://github.com/haradakashiwa/ternssh)：可部署在Cloudflare Workers上的网页SSH工具
 - [leaningtech/webvm](https://github.com/leaningtech/webvm)：基于 WebAssembly 在网页中运行虚拟机的项目
 - [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy)：将国家反诈AI接口转换为OpenAI兼容格式的反向代理
@@ -601,9 +608,10 @@
 
 界面、设计系统、可视化、客户端开发与交互工具。
 
-共 26 项。
+共 28 项。
 
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)：供代理生成可更新用户界面的声明式协议与渲染库
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)：连接智能体与前端应用、支持用户交互的 AG-UI 协议与工具
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)：以网页生成原型、幻灯片与动画的设计技能
 - [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)：用于显示 Android Auto 界面的车机应用
 - [AvroraCL/image-to-css-art](https://github.com/AvroraCL/image-to-css-art)：把参考图片离线转换为纯HTML与CSS插画的智能体插件
@@ -612,6 +620,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter)：面向移动、桌面与网页的跨平台应用开发框架
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk)：基于 WebRTC 的跨平台远程桌面控制与游戏串流客户端
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md)：向编程代理描述视觉风格与设计系统的格式规范
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)：连接 Google Stitch 的智能体技能与插件，支持界面设计、设计系统管理和前端组件生成
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)：为编程 Agent 提供现代 Web 最佳实践、兼容性知识与评测的技能源码
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)：支持动态平铺与高度定制的 Wayland 桌面合成器
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)：自主开发浏览器及浏览器引擎的开源项目
@@ -635,7 +644,7 @@
 
 网络连接与代理、安全检测、隐私保护和逆向分析。
 
-共 49 项。
+共 50 项。
 
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)：提供通知、历史记录与Grafana导出的轻量网络IP扫描器
 - [achillean/shodan-python](https://github.com/achillean/shodan-python)：用于访问Shodan服务的官方Python客户端库
@@ -649,6 +658,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)：使用Rust编写、兼容Bitwarden的密码管理服务器
 - [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio)：检测、遮盖与匿名化文本及图像中敏感信息
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)：阻止代理执行危险版本控制与终端命令的工具
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)：为 Claude Code 提供漏洞挖掘与外部红队评估流程的技能包
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)：用于查找代码仓库中泄露秘密信息的工具
 - [goauthentik/authentik](https://github.com/goauthentik/authentik)：提供身份认证、授权与单点登录能力的平台
 - [Hinln/ARTEX](https://github.com/Hinln/ARTEX)：基于Go与Next.js的AI自主渗透测试系统源码备份
@@ -692,8 +702,9 @@
 
 课程、教程、书籍、资源清单、面试与工程知识。
 
-共 76 项。
+共 77 项。
 
+- [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books)：面向工程师整理计算机、软件、数学、创业与思想类推荐书目
 - [7487/chinatextbook](https://github.com/7487/chinatextbook)：汇集小学至大学阶段 PDF 教材的资源仓库
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts)：汇集 GPT 提示词、提示工程论文与安全相关资料
 - [aialgorithm/AiPy](https://github.com/aialgorithm/AiPy)：分享 Python 机器学习与深度学习算法开发资源
@@ -776,12 +787,13 @@
 
 生活信息、娱乐、游戏及其他非核心技术用途。
 
-共 33 项。
+共 35 项。
 
 - [able8/weread-hot-booklists](https://github.com/able8/weread-hot-booklists)：整理微信读书热门书单、排行榜与笔记的项目
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)：整理 Telegram 群组、频道与机器人链接的导航集合
 - [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN)：汇集海外移居地区与路径信息的中文手册
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)：涵盖健康、财务、法律与生活规划的资料指南
+- [exposir/supernatural_tianya](https://github.com/exposir/supernatural_tianya)：保存天涯帖子《中国有没有调查异事件的官方机构？》的阅读资料
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)：依据老乡鸡公开菜品报告整理的非官方烹饪资料
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)：通过 Wi-Fi 精简 Android TV 或 Google TV 预装服务并替换电视启动器的工具
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api)：自动采集、校验和测速并输出电视直播源的工具
@@ -792,8 +804,9 @@
 - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)：支持Docker等部署方式的影视站点项目
 - [liketrek/TREK](https://github.com/liketrek/TREK)：支持协作地图、预算与行李清单的自托管旅行规划器
 - [limi124/shanshui-mingtang-fengshui-gis](https://github.com/limi124/shanshui-mingtang-fengshui-gis)：通过地形分析生成传统风水文化解读的地图平台
+- [M-Mono/Stories-about-Ming-Dynasty](https://github.com/M-Mono/Stories-about-Ming-Dynasty)：整理《明朝那些事儿》全七卷的阅读与排版资料
 - [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)：支持游戏下载与启动的 Minecraft 启动器 Plain Craft Launcher
-- [Minireel/HGhub](https://github.com/Minireel/HGhub)：原 YellowFruit 第三方影视客户端，作者已停止维护并撤下代码与发行版本
+- [Minireel/HGhub](https://github.com/Minireel/HGhub)：通过插件接入内容来源，集中浏览、搜索、播放与管理个人片库的视频播放器
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)：开源低成本10.5GHz相控阵雷达系统
 - [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER)：用于管理游戏DLSS图形组件的开源工具
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian)：通过智能体和 GitHub 投稿参与海淀京张创新带城市设计的开源征集项目
